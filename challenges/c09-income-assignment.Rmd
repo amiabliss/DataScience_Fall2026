@@ -5,8 +5,8 @@ title: "US Income"
 author: "Amia Georges" 
 date: 2026-11-09
 output: 
-  github_document: 
-    toc: true 
+ github_document:
+    toc: true
 prerequisites: 
   - e-stat09-bootstrap 
 ---
